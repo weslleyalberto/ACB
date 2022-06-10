@@ -101,6 +101,10 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 4px;
   transition: all 0.4s;
 }
+.count-box p{
+	font-weight: 600;
+	font-size: 130%;
+}
 .back-to-top i {
   font-size: 28px;
   color: #fff;
